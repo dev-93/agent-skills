@@ -1,0 +1,14 @@
+*.log
+.DS_Store
+node_modules/
+.npm/
+*.tmp
+*.bak
+.env
+.kiro/
+business-research/
+agency/logs/
+agency/reports/
+_workspace/
+__pycache__/
+*.pyc
